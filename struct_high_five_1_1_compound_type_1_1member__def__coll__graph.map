@@ -1,0 +1,7 @@
+<map id="HighFive::CompoundType::member_def" name="HighFive::CompoundType::member_def">
+<area shape="rect" id="Node000001" title="Use for defining a sub&#45;type of compound type." alt="" coords="5,175,192,220"/>
+<area shape="rect" id="Node000002" href="$class_high_five_1_1_data_type.html" title="HDF5 Data Type." alt="" coords="25,82,172,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,125,101,174,96,174,96,125"/>
+<area shape="rect" id="Node000003" href="$class_high_five_1_1_object.html" title=" " alt="" coords="34,5,163,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,48,101,82,96,82,96,48"/>
+</map>
