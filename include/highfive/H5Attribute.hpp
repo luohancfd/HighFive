@@ -101,7 +101,7 @@ class Attribute: public Object, public PathTraits<Attribute> {
     T read() const;
 
     /// \brief Get the value of the Attribute in a buffer.
-    /// 
+    ///
     /// Read the attribute into a buffer
     /// An exception is raised if the numbers of dimension of the buffer and of
     /// the attribute are different
